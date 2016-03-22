@@ -1,0 +1,12 @@
+collapsable side panel
+	user login in / create user / mongodb?
+	realm status
+	raid status
+//main page / main / forums / ??
+banner / top full-length - not to wide
+menu / bootstrap?
+carosel of our raiding snapshots / rotating through
+small welcome blog and ER introduction
+meet the officers / head shots and small post?
+Tanner's chat tool?
+footer section
